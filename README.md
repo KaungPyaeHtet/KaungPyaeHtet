@@ -1,34 +1,29 @@
-# Hello World! I'm Ozzy 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/penguin-waving-gif.gif" width="200">
+  <h1>Hey, I'm Ozzy! 🐧</h1>
+  <p> Have Fun | Loves Software Challenges | Penguin Lover</p>
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-@KaungPyaeHtet-181717?logo=github)](https://github.com/KaungPyaeHtet)
+  [![Email](https://img.shields.io/badge/Email-kaungpyaehtet2007@gmail.com-D14836?logo=gmail)](mailto:kaungpyaehtet2007@gmail.com)
+</div>
 
-### Full Stack Developer & Computer Scientist
+---
 
-🌍 **About Me**  
-- 💻 Passionate about taking challenges
-- 🐧 Fun fact: Penguin lover (they're nature's perfect developers - great at diving deep and working in teams!)  
-- 📚 Constantly looking for new tech 
 
-🛠 **Tech Stack**  
-- Frontend: ReactJS, HTML/CSS, JavaScript  
-- Backend: FastAPI, Python  
-- Tools: Git, VS Code  
+### 🛠 Tech Stack  
+<p align="left">  
+  <img src="https://skillicons.dev/icons?i=python,react,fastapi,git,github,vscode,django,javascript,vercel,sqlite,figma" />  
+</p>  
 
-🚀 **Current Projects**  
-- Building scalable school websites with modern UX principles  
-- Contributing to open-source educational technology projects  
 
-🌱 **Learning Goals**  
-- Mastering React patterns and best practices  
-- Exploring Python's full potential in web development  
-- Implementing effective CI/CD pipelines  
+### 📈 GitHub Stats  
+| ![Ozzy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaungPyaeHtet&show_icons=true&theme=radical&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaungPyaeHtet&layout=compact&theme=radical&hide_border=true) |
+|-------------|-------------|
 
-💡 **Collaboration**  
-Looking to partner on:  
-- EdTech solutions  
-- Web development projects  
-- Anything that makes technology more accessible  
+---
 
-📫 **Let's Connect!**  
-- Email: [kaungpyaehtet2007@gmail.com](mailto:kaungpyaehtet2007@gmail.com)   
-- [LinkedIn](#) *(you can add link later)*  
+### 🐧 Fun Fact  
+> Penguin is the cutest creature.
+> Coding challenges
 
-"First solve the problem, then write the code." - John Johnson
+---
