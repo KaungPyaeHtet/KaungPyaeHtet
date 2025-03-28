@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/penguin-waving-gif.gif" width="200">
   <h1>Hey There, I'm Ozzy! 🐧</h1>
   <p> Aspiring Software Engineer | Loves Coding Challenges | Burmese Coder | Penguin Lover</p>
   
