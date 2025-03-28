@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/penguin-waving-gif.gif" width="200">
   <h1>Hey There, I'm Ozzy! 🐧</h1>
-  <p> Aspiring Software Engineer | Loves Coding Challenges | Penguin Lover</p>
+  <p> Aspiring Software Engineer | Loves Coding Challenges | Burmese Coder | Penguin Lover</p>
   
   [![GitHub](https://img.shields.io/badge/GitHub-@KaungPyaeHtet-181717?logo=github)](https://github.com/KaungPyaeHtet)
   [![Email](https://img.shields.io/badge/Email-kaungpyaehtet2007@gmail.com-D14836?logo=gmail)](mailto:kaungpyaehtet2007@gmail.com)
