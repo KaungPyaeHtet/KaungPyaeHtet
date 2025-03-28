@@ -13,6 +13,6 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v3
-      - uses: Balastrong/chess-stats-action@main
+      - uses: KaungPyaeHtet/chess-stats-action@main
         with:
           CHESS_USERNAME: OzzyKPH2007
