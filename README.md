@@ -25,8 +25,10 @@
 |----------------|---------------------------|
 | **LeetCode**   | [![LeetCode](https://leetcard.jacoblin.cool/KaungPyaeHtet?theme=dark&font=KaTeX)](https://leetcode.com/KaungPyaeHtet/) |
 | **Codeforces** | [![Codeforces](https://cf.leed.at?id=Ozzy2007)](https://codeforces.com/profile/Ozzy2007) |
-| **Chess**      | [![Chess](https://chess-card.vercel.app/OzzyKPH2007?theme=auto)](https://chess.com/member/OzzyKPH2007)
+### ♟️ Chess
+<!--START_SECTION:chessStats-->
 
+<!--END_SECTION:chessStats-->
 
 ## 🏅 Mini-Achievements  
 - Built Allergy Detector Application in 3 days  
