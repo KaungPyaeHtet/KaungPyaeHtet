@@ -10,12 +10,21 @@
 ---
 
 
-### 🛠 Tech Stack  
-<p align="left">  
-  <img src="https://skillicons.dev/icons?i=python,react,fastapi,git,github,vscode,django,javascript,vercel,sqlite,figma" />  
+<div align="center">
+  <h2>Tech Stack</h1>
+<h3>Programming Languages</h3>
+<p align="center">  
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,js" />  
 </p>  
-
-
+ <h3>Libraries & Frameworks</h3>
+<p align="center">  
+  <img src="https://skillicons.dev/icons?i=react,django,fastapi,bootstrap,electron,express,sklearn,nodejs,redux" />  
+</p>  
+   <h3>Tools</h3>
+<p align="center">  
+  <img src="https://skillicons.dev/icons?i=vscode,vim,github,git,notion,discord,figma,latex" />  
+</p>  
+</div>
 ### 📈 GitHub Stats  
 | ![Ozzy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaungPyaeHtet&show_icons=true&theme=radical&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaungPyaeHtet&layout=compact&theme=radical&hide_border=true) |
 |-------------|-------------|
@@ -25,10 +34,8 @@
 |----------------|---------------------------|
 | **LeetCode**   | [![LeetCode](https://leetcard.jacoblin.cool/KaungPyaeHtet?theme=dark&font=KaTeX)](https://leetcode.com/KaungPyaeHtet/) |
 | **Codeforces** | [![Codeforces](https://cf.leed.at?id=Ozzy2007)](https://codeforces.com/profile/Ozzy2007) |
-### ♟️ Chess
-<!--START_SECTION:chessStats-->
+[![Chess]([https://img.shields.io/badge/Chess-ozzykph2007-000000?logo=chess)](https://chess.com/member/ozzykph2007](https://img.shields.io/badge/dynamic/json?url=https://api.chess.com/pub/player/ozzykph2007/stats&label=Chess.com&query=$.chess_rapid.last.rating&prefix=Rapid%3A&suffix=%20|%20Puzzles%3A2559&color=000000&logo=chess.com))
 
-<!--END_SECTION:chessStats-->
 
 ## 🏅 Mini-Achievements  
 - Built Allergy Detector Application in 3 days  
