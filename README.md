@@ -34,8 +34,8 @@
 |----------------|---------------------------|
 | **LeetCode**   | [![LeetCode](https://leetcard.jacoblin.cool/KaungPyaeHtet?theme=dark&font=KaTeX)](https://leetcode.com/KaungPyaeHtet/) |
 | **Codeforces** | [![Codeforces](https://cf.leed.at?id=Ozzy2007)](https://codeforces.com/profile/Ozzy2007) |
-[![Chess]([https://img.shields.io/badge/Chess-ozzykph2007-000000?logo=chess)](https://chess.com/member/ozzykph2007](https://img.shields.io/badge/dynamic/json?url=https://api.chess.com/pub/player/ozzykph2007/stats&label=Chess.com&query=$.chess_rapid.last.rating&prefix=Rapid%3A&suffix=%20|%20Puzzles%3A2559&color=000000&logo=chess.com))
 
+[![Chess.com](https://img.shields.io/badge/dynamic/json?url=https://api.chess.com/pub/player/ozzykph2007/stats&label=Chess.com&query=$.chess_rapid.last.rating&prefix=Rapid%3A&suffix=%20|%20Blitz%3A1556%20|%20Puzzles%3A2559&color=009688&logo=chess.com&logoColor=white&style=for-the-badge)](https://www.chess.com/member/ozzykph2007)
 
 ## 🏅 Mini-Achievements  
 - Built Allergy Detector Application in 3 days  
