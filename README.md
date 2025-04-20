@@ -21,7 +21,7 @@
 </p>  
    <h3>Tools</h3>
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=vscode,vim,github,git,notion,discord,figma,latex" />  
+  <img src="https://skillicons.dev/icons?i=vscode,vim,neovim,github,git,notion,discord,figma,latex" />  
 </p>  
 </div>
 
