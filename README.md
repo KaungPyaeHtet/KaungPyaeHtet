@@ -5,9 +5,9 @@ Connect with me!
     <li><a href="mailto:kaungpyaehtet2007@gmail.com">Mail</a></li>
 </ul>
 
-<h3>🚀 Currently Working On</h3>
+<h3>Working On</h3>
 <ul align="left">
-  <li>Competitive programming (Codeforces, LeetCode)</li>
-  <li>(Next.js, Django)</li>
+  <li>(Next.js, Supabase)</li>
   <li>Machine Learning</li>
+  <li>Educational Platforms</li>
 </ul>
